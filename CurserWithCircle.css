@@ -1,0 +1,10 @@
+*{
+    background-color: black;
+}
+#minicircle{
+    height: 12px;
+    width: 12px;
+    background-color: rgb(250, 248, 248);
+    border-radius: 50%;
+    
+}
